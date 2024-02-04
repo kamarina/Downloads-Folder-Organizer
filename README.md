@@ -57,3 +57,11 @@ This approach aims to improve efficiency and responsiveness.
 Additionally, there are plans to extend compatibility and optimize the script for macOS and Linux environments, broadening its applicability and utility across different operating systems.
 
 Your contributions, suggestions, and feedback are welcome as we strive to improve and expand the functionality of this tool.
+
+Feel free to customize and extend the code as needed for your specific use case.
+``` javascript
+
+Replace `your-username` with your actual GitHub username in the repository URL.
+
+```
+
